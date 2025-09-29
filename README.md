@@ -13,7 +13,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
-https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000
+
 ### Statistics:
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Kelyan3&show_icons=true&bg_color=00000000)
 ![My Most Language](https://github-readme-stats.vercel.app/api/top-langs?username=Kelyan3&show_icons=true&theme=cobalt&hide_progress=true)
