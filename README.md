@@ -7,7 +7,7 @@ Je m'intéresse particulièrement au développement informatique. Curieux et mot
 ### Statistiques.
 
 <div align="left">
-	<img src="https://github-stats-extended.vercel.app/api?username=Kelyan3&rank_icon=github&custom_title=Mes%20Statistiques&show_icons=true&include_all_commits=true&theme=react" />
+	<img src="https://github-stats-extended.vercel.app/api?username=Kelyan3&rank_icon=github&custom_title=Mes%20Statistiques&show_icons=true&include_all_commits=true&theme=react" /><br />
 	<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Kelyan3&langs_count=3&theme=react" />
 </div>
 
